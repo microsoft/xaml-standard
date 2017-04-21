@@ -17,6 +17,7 @@ This project has adopted the code of conduct defined by the [Contributor Covenan
 
 ## Additional resources
 
-Learn more about XAML Standard at [Introducing XAML Standard] (http://www.blogs.windows.com/buildingapps/) blog post. 
+Learn more about XAML Standard at [Introducing XAML Standard] (https://blogs.windows.com/buildingapps/) blog post. 
+TODO: update link
 
 For more information, check out the [FAQ](docs/faq.md).
