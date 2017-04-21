@@ -10,14 +10,14 @@ XAML Standard solves the markup/source code sharing problem for UI developers by
 
 ## How to engage, contribute and provide feedback
 
-This spec is being designed in the open. Currently proposed APIs can be located in the [Proposals] (docs/proposals) folder.
+This spec is being designed in the open. Currently proposed APIs can be located in the [Proposals](docs/proposals) folder.
 You are encouraged to start a discussion by filing an issue. 
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/) to clarify expected behavior in our community. For more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct).
 
 ## Additional resources
 
-Learn more about XAML Standard at [Introducing XAML Standard] (https://blogs.windows.com/buildingapps/) blog post. 
+Learn more about XAML Standard at [Introducing XAML Standard](https://blogs.windows.com/buildingapps/) blog post. 
 TODO: update link
 
 For more information, check out the [FAQ](docs/faq.md).
