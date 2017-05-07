@@ -2,13 +2,13 @@
 
 This repository contains the principles and definition of XAML Standard.
 
-XAML Standard is a vocabulary spec that defines a standard XAML vocabulary. Frameworks that support XAML standard will be able to share common XAML based UI definitions. At this time, 
-- XAML Standard is not a library, rather it is a vocabulary spec
-- The goal is to have the first version (XAML standard 1.0) supported in Xamarin Forms, UWP as well as in WPF (.NET Framework).
+XAML Standard is a vocabulary spec that defines a standard XAML vocabulary. Frameworks that support XAML standard can share common XAML based UI definitions. 
+
+The goal is for the first version, XAML Standard 1.0, to be available later this year.  Post specification plans include support of XAML standard in Xamarin Forms and UWP.  
 
 ## How to engage, contribute and provide feedback
 
-This spec is being designed in the open. We are in the early stages of defining the spec right now, you should start seeing details popup in this repository as they get defined. We encourage you to start a discussion or give us direct feedback by [filing an issue](https://github.com/Microsoft/xaml-standard/issues) 
+This spec is being designed in the open. We are in the early stages of defining the spec right now, you can see a draft of XAML Standard 1.0 getting defined [here](docs/v1draft.md). We encourage you to start a discussion or give us direct feedback by [filing an issue](https://github.com/Microsoft/xaml-standard/issues) or [starting a proposal](https://github.com/Microsoft/xaml-standard/labels/proposal)
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/) to clarify expected behavior in our community. For more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct).
 
