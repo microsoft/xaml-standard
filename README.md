@@ -6,6 +6,8 @@ XAML Standard is a vocabulary spec that defines a standard XAML vocabulary. Fram
 
 The goal is for the first version, XAML Standard 1.0, to be available later this year.  Post specification plans include support of XAML standard in Xamarin Forms and UWP.  
 
+For more information, read the [faqs](docs/faq.md)
+
 ## How to engage, contribute and provide feedback
 
 This spec is being designed in the open. We are in the early stages of defining the spec right now, you can see a draft of XAML Standard 1.0 getting defined [here](docs/v1draft.md). We encourage you to start a discussion or give us direct feedback by [filing an issue](https://github.com/Microsoft/xaml-standard/issues) or [starting a proposal](https://github.com/Microsoft/xaml-standard/labels/proposal)
