@@ -4,7 +4,7 @@ This repository contains the principles and definition of XAML Standard.
 
 XAML Standard is a vocabulary spec that defines a standard XAML vocabulary. Frameworks that support XAML standard can share common XAML based UI definitions. 
 
-The goal is for the first version, XAML Standard 1.0, to be available later this year.  Post specification plans include support of XAML standard in Xamarin Forms and UWP.  
+The goal is for the first version, XAML Standard 1.0, to be available later this year.  Post specification plans include support of XAML standard in Xamarin.Forms and UWP.  
 
 For more information, read the [faqs](docs/faq.md)
 
