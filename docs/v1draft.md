@@ -1,89 +1,58 @@
-# Draft of V1
+# Phase 1 of alignment
 
-The following types are some of the first few being considered for XAML Standard 1.0. The list below shows some simple sample code that illustrates the usages and likely properties/methods/events on these types. 
+The following tags are some of the first few being considered for alignment across Microsoft XAML UI systems (listed in alphabetical order). Several of these are already aligned; a few are being aligned currently. See [aka.ms/xf-xamlstandard](<https://aka.ms/xf-xamlstandard>) for a preview of newly aligned tags in Xamarin.Forms.
 
-This list will be updated with more types and more fleshed out specs will be added for each in the coming months. See what's additionally in plan for v1 and beyond in [proposals](https://github.com/Microsoft/xaml-standard/labels/proposal).
+## Core, Controls and layout
+1. Binding
+2. BindingBase
+3. Border
+4. Button
+5. ColumnDefinition
+6. ColumnDefinitionCollection
+7. ComboBox
+8. ContentPresenter
+9. ControlTemplate
+10. DataTemplate
+11. DataTemplateSelector
+12. DatePicker
+13. Grid
+14. Image
+15. ListView
+16. ProgressBar
+17. ProgressRing
+18. ResourceDictionary
+19. RowDefinition
+20. RowDefinitionCollection
+21. Setter
+22. Slider
+23. StackPanel
+24. Style
+25. TextBlock
+26. TextBox
+27. TimePicker
+28. ToggleSwitch
+29. UserControl
+30. WebView
 
-## 1. Button
-```xml
-   <Button x:Name="MyButton"
-	   Content="My Button"
-	   Click="MyButton_Click"
-	   Command="{Binding MyButtonCommand}" />
-```	
-## 2. TextBlock
-```xml
-   <TextBlock x:Name="MyText"
-	      Text="Hello World!"
-	      Foreground="Blue"
-	      HorizontalAlignment="Right"
-	      VerticalAlignment="Top" />
-```	
-##	3. TextBox
-```xml
-   <TextBox x:Name="MyTextEntry"
-	    Text="{Binding Path=Name, Mode=TwoWay}"
-	    PlaceholderText="Enter your name"
-	    AcceptsReturn="False"
-	    TextChanged="MyTextEntry_TextChanged" />
-```
-##	4. ComboBox
-```xml
-   <ComboBox x:Name="MyComboBox"
-	     ItemsSource="{Binding Items}"
-	     SelectedIndex="0"
-	     Foreground="Green"
-	     SelectionChanged="MyComboBox_SelectionChanged" />
-```	
-##	5. Grid
-```xml
-   <Grid Background="Ivory">
-      <Grid.RowDefinitions>
-         <RowDefinition Height="50"/>
-         <RowDefinition Height="*"/>
-      </Grid.RowDefinitions>
-      <Grid.ColumnDefinitions>
-         <ColumnDefinition Width="Auto" />
-         <ColumnDefinition Width="*" />
-      </Grid.ColumnDefinitions>
-      <Button Grid.Row="1" Grid.Column="0" ... />
-      ...
-   </Grid>
-```
-##	6. StackPanel
-```xml
-   <StackPanel Orientation="Horizontal" Background="SkyBlue">
-      <TextBlock Text="UserName: " />
-      <TextBox PlaceholderText="Enter your username" />
-   </StackPanel>
-```	
-##	7. Page
-```xml
-   <Page x:Class="MyNamespace.MyPage"
-      Background="Beige">
-      <Page.Content><!--optional-->
-         <Grid ... />
-      </Page.Content>
-   </Page>
-```
-##	8. UserControl
-```xml
-   <UserControl x:Class="MyNamespace.MyPage">
-      <UserControl.Content><!--optional-->
-         <Grid ... />
-      </UserControl.Content>
-   </UserControl>
-```	
+## Enums and others 
 
-In addition, the following properties should be available on all the types listed above:
-* Margin : ` <Thickness ...> left,top,right,bottom </Thickness>`
-* HorizontalAlignment : Center, Left, Right, Stretch
-* VerticalAlignment : Center, Top, Bottom, Stretch
-* Height 
-* Width 
+31. BindingMode : *{ OneWay, TwoWay }*
+32. FontStyle : *{ Italic, Normal }*
+33. FontWeights : *{Bold, Normal }*
+34. GridLength
+35. InputScopeNameValue : *{ Default, Url, Number, TelephoneNumber, Text, Chat, EmailNameOrAddress }*
+36. Orientation : *{ Vertical, Horizontal }*
+37. Stretch : *{ Fill, Uniform, UniformToFill }*
+38. TextAlignment : *{ Center, End, Start }*
+39. TextWrapping : *{ NoWrap, Wrap, WrapWholeWords }*
+40. Thickness
 
-Controls like Button, TextBlock, TextBox and ComboBox will additionally allow the following properties:
-* FontSize
-* FontWeight : Bold, Normal
-* FontStyle : Italic, Normal
-* FontFamily
+## Markup directives
+
+41. x:Class
+42. x:Name
+43. x:Key
+44. x:Boolean
+45. x:String
+46. x:Double
+47. x:Int32
