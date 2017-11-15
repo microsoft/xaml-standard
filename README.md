@@ -13,7 +13,7 @@ _Thank you for patiently bearing with us as we have been iterating over feedback
 ## Revised definition and scope: 
 
 * XAML Standard is an alignment effort targeted at finding the right middle ground of concepts and tags that can be shared between Microsoft’s XAML UI systems to make it easier to work with XAML regardless of target platforms.
-* XAML Standard is set of principles that drive XAML dialect alignment and not a product or product feature.  For more details on the updated principles, see [Principles](reviewboard.md#principles)
+* XAML Standard is set of principles that drive XAML dialect alignment and not a product or product feature.  For more details on the updated principles, see [Principles](docs/reviewboard.md#principles)
 
 ## Timeframe: 
 As a first phase of alignment, we are making a set of additive updates to Windows 10 XAML and Xamarin.Forms. For example: 
