@@ -1,4 +1,4 @@
-# Vocabulary specification for the XAML Standard, a unified markup dialect for defining user interface elements and their behaviors
+# XAML Standard : a set of principles that drive XAML dialect alignment
 
 ## Updates: 
 _Thank you for patiently bearing with us as we have been iterating over feedback and working to better define the principles for XAML Standard._
