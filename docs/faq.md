@@ -3,7 +3,7 @@
 ## Additional resources
 * **NEW!!** [Xamarin.Forms - XAML Standard preview](https://developer.xamarin.com/guides/xamarin-forms/xaml/standard/) 
 * [Introducing XAML Standard and .NET Standard 2.0 blog](https://blogs.windows.com/buildingapps/2017/05/19/introducing-xaml-standard-net-standard-2-0)
-* [Ch9 Interview with Tim Heuer, Scott Hunter and Miguel de Icaza](https://developer.microsoft.com/en-us/windows/projects/events/build/2017/net-standard-20-uwp-support-and-ui-features)
+* [.NET Standard 2.0, UWP support and UI futures, Ch9 Interview with Tim Heuer, Scott Hunter and Miguel de Icaza](https://channel9.msdn.com/Events/Build/2017/C9L13)
 
 ## What is XAML Standard?
 XAML Standard is an alignment effort to improve productivity for developers creating UI with Windows10 XAML and Xamarin.Forms. It is targeted at finding the right middle ground of concepts and tags that can be shared between Microsoft’s XAML UI systems - Windows10 XAML, WPF and Xamarin.Forms to make it easier to work with XAML regardless of target platforms.
