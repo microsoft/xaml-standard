@@ -1,7 +1,7 @@
 # XAML Standard : a set of principles that drive XAML dialect alignment
 
 ## Updates: 
-_Thank you for patiently bearing with us as we have been iterating over feedback and working to better define the principles for XAML Standard._
+_We appreciate the continued passion for aligning XAML dialects.  This repo defines the set of principles that drive XAML dialect alignment and those principles are known as “XAML Standard”. At this point, the principles are set and therefore we do not expect more updates to this repo._
  
 ## Principles: 
 
@@ -12,7 +12,7 @@ _Thank you for patiently bearing with us as we have been iterating over feedback
 
 ## Revised definition and scope: 
 
-* XAML Standard is set of principles that drive XAML dialect alignment and not a product or product feature.  For more details on the updated principles, see [Principles](docs/reviewboard.md#principles)
+* XAML Standard is set of principles that drive XAML dialect alignment and not a product or product feature. 
 
 ## Timeframe: 
 As a first phase of alignment, we are making a set of additive updates to Windows 10 XAML and Xamarin.Forms. For example: 
@@ -21,12 +21,6 @@ As a first phase of alignment, we are making a set of additive updates to Window
 
 For the full list of aligned tags at this time, see [here](docs/v1draft.md).
 
-With this clarified stance, we will be more active on the Issues and help provide more clarity on the goals and timelines. We encourage you to continue providing us feedback on concepts and tags that would benefit from closer alignment to serve your scenarios.
-
-For more information, read the [faqs](docs/faq.md).
-
-## How to engage, contribute and provide feedback
-
-We encourage you to start a discussion or give us direct feedback by [filing an issue](https://github.com/Microsoft/xaml-standard/issues) or [starting a proposal](https://github.com/Microsoft/xaml-standard/labels/proposal). 
+If you have further feedback on XAML alignment, please provide that on either the UWP XAML uservoice](https://wpdev.uservoice.com/forums/110705-universal-windows-platform) or the [Xamarin.Forms community forums](https://developercommunity.visualstudio.com/spaces/8/index.html)
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/) to clarify expected behavior in our community. For more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct).
