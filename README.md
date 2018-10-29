@@ -21,6 +21,6 @@ As a first phase of alignment, we are making a set of additive updates to Window
 
 For the full list of aligned tags at this time, see [here](docs/v1draft.md).
 
-If you have further feedback on XAML alignment, please provide that on either the UWP XAML uservoice](https://wpdev.uservoice.com/forums/110705-universal-windows-platform) or the [Xamarin.Forms community forums](https://developercommunity.visualstudio.com/spaces/8/index.html)
+If you have further feedback on XAML alignment, please provide that on either the [UWP XAML uservoice](https://wpdev.uservoice.com/forums/110705-universal-windows-platform) or the [Xamarin.Forms community forums](https://developercommunity.visualstudio.com/spaces/8/index.html)
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/) to clarify expected behavior in our community. For more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct).
