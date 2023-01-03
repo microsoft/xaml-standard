@@ -1,7 +1,8 @@
 # XAML Standard : a set of principles that drive XAML dialect alignment
 
 ## Updates: 
-_We appreciate the continued passion for aligning XAML dialects.  This repo defines the set of principles that drive XAML dialect alignment and those principles are known as “XAML Standard”. At this point, the principles are set and therefore we do not expect more updates to this repo._
+**03-JAN-2023: 
+This repo is being archived.** The focus of aligning the XAML dialect across a number of our XAML-based languages was our initial goal. We were unable to find a direct alignment with our product areas as we’d hoped. To that end, we are choosing to archive this repo. Our frameworks such as [Windows Presentation Foundation (WPF)](https://learn.microsoft.com/dotnet/desktop/wpf/overview/?view=netdesktop-6.0), [WinAppSDK](https://learn.microsoft.com/windows/apps/windows-app-sdk/), and [.NET MAUI](https://learn.microsoft.com/dotnet/maui/what-is-maui?view=net-maui-7.0) are rich with features powerful for each use case and can leverage XAML declarative markup unique to their own scenarios and underlying platforms they serve. We will continue to evolve those frameworks as appropriate, enabling developers choosing those platforms for their apps to be most successful in their developer scenarios and targets.
  
 ## Principles: 
 
