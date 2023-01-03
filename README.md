@@ -1,7 +1,8 @@
 # XAML Standard : a set of principles that drive XAML dialect alignment
 
 ## Updates: 
-_We appreciate the continued passion for aligning XAML dialects.  This repo defines the set of principles that drive XAML dialect alignment and those principles are known as “XAML Standard”. At this point, the principles are set and therefore we do not expect more updates to this repo._
+**03-JAN-2023: 
+This repo is being archived.** The focus of aligning the XAML dialect across a number of our XAML-based languages was our initial goal. We were unable to find a direct alignment with our product areas as we’d hoped. To that end, we are choosing to archive this repo. Our frameworks such as [Windows Presentation Foundation (WPF)](https://learn.microsoft.com/dotnet/desktop/wpf/overview/?view=netdesktop-6.0), [WinAppSDK](https://learn.microsoft.com/windows/apps/windows-app-sdk/), and [.NET MAUI](https://learn.microsoft.com/dotnet/maui/what-is-maui?view=net-maui-7.0) are rich with features powerful for each use case and can leverage XAML declarative markup unique to their own scenarios and underlying platforms they serve. We will continue to evolve those frameworks as appropriate, enabling developers choosing those platforms for their apps to be most successful in their developer scenarios and targets.
  
 ## Principles: 
 
@@ -21,6 +22,6 @@ As a first phase of alignment, we are making a set of additive updates to Window
 
 For the full list of aligned tags at this time, see [here](docs/v1draft.md).
 
-If you have further feedback on XAML alignment, please provide that on either the UWP XAML uservoice](https://wpdev.uservoice.com/forums/110705-universal-windows-platform) or the [Xamarin.Forms community forums](https://developercommunity.visualstudio.com/spaces/8/index.html)
+If you have further feedback on XAML alignment, please provide that on either the [UWP XAML uservoice](https://wpdev.uservoice.com/forums/110705-universal-windows-platform) or the [Xamarin.Forms community forums](https://developercommunity.visualstudio.com/spaces/8/index.html)
 
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/) to clarify expected behavior in our community. For more information, see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct).
